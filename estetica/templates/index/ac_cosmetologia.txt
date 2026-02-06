@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ac Cosmetología</title>
+
+</head>
+
+<body>
+    <h1>Ac Cosmetología</h1>
+    <p>Bienvenido a la sección de Ac Cosmetología. 
+       Aquí encontrarás información sobre nuestros servicios y productos 
+       relacionados con la cosmetología.</p>
+    <a href="https://wa.me/5491169111375" target="_blank">
+            Reservar turno por WhatsApp
+        </a>
+
+
+
+</body>
+
+
+
+</html>
